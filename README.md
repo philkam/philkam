@@ -9,13 +9,14 @@
 
 💎I currently work at Re-routing in Malta where we collaborate with businesses to relieve humans of mundane tasks, allowing them to focus on more intellectually valuable activities that demand human creativity.
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning Python and java this year.
 
 💬 Ask me about anything RPA accross all platforms.
 
 📫 How to reach me: Want to get in touch with me? Send me a DM on [Twitter](https://twitter.com/phhilcho).
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=philkam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=philkam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philkam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philkam)](https://github.com/philkam/github-readme-stats)
 
 <!--
 ### Hi there 👋
