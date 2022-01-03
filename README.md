@@ -15,9 +15,9 @@
 
 📫 How to reach me: Want to get in touch with me? Send me a DM on [Twitter](https://twitter.com/phhilcho).
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=philkam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=philkam&theme=radical&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philkam)](https://github.com/philkam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philkam&show_icons=true&theme=radical)](https://github.com/philkam/github-readme-stats)
 
 <!--
 ### Hi there 👋
