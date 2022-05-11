@@ -6,7 +6,7 @@
 
 💎I love to always automate processes which will makes businesses increase productivity, ensure accuracy and improved analytics. On my github, I replicate most of the business processes done with Automation Anywhere and Power Automate Desktop using UiPath😆. 
 
-💎I currently work at Re-routing in Malta where we collaborate with businesses to relieve humans of mundane tasks, allowing them to focus on more intellectually valuable activities that demand human creativity.
+<!--💎I currently work at Re-routing in Malta where we collaborate with businesses to relieve humans of mundane tasks, allowing them to focus on more intellectually valuable activities that demand human creativity. -->
 
 🌱 I’m currently learning Python and java this year.
 
